@@ -16,4 +16,4 @@ CSS Flexbox
 
 Responsive web design
 
-Js
+JavaScript
